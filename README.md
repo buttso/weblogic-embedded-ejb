@@ -10,7 +10,7 @@ This project contains a simple Maven project that demonstrates using the WebLogi
 
 The WebLogic Server 12.1.3 embedded EJB container can be used to deploy and test EJB modules using the java.ejb.* API.  
 
-[https://docs.oracle.com/middleware/1213/wls/EJBAD/embedejb.htm#EJBAD1403](http://https://docs.oracle.com/middleware/1213/wls/EJBAD/embedejb.htm#EJBAD1403)
+[https://docs.oracle.com/middleware/1213/wls/EJBAD/embedejb.htm#EJBAD1403](https://docs.oracle.com/middleware/1213/wls/EJBAD/embedejb.htm#EJBAD1403)
 
 Using the EJBContainer with WebLogic Server **requires** a local installation from which the `ORACLE_HOME/wlserver/server/lib/weblogic.jar` file can be specified on the CLASSPATH.  This enables WebLogic Server to create a temporary embedded domain from which the server is started and EJB modules and clients are executed.
 
